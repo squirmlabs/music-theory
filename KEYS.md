@@ -35,3 +35,6 @@ Major Scales and Major Keys
 
 There are two main types of scales and keys: Major and Minor. With the use of an analogy, we can think of these like two different flavors of ice cream. Ice cream being the scale and key, you may want chocolate ice cream. You could be served chocolate with peanuts as your topping, or you could be served with chocolate with raspberries as your topping. Both servings are still considered chocolate ice cream. When it comes to taste, the taste would be very different between the two servings.
 
+Let's focus on the Major Scale and Keys. It's important to note that this doesn't include chords. Even though, we are focused on the Major Scale and Key, we still have major and minor chords that can be played.
+
+
