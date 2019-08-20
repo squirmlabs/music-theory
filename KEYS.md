@@ -67,4 +67,4 @@ In actual music you very rarely have scales written out in order from beginning 
 
 Let's try the __W W H W W W H__ pattern. If this is a major scale, the pattern will be recognizable somewhere.
 
-[This is a C Major scale, written from the pitch G.](https://imgur.com/a/B0GmHTj)
+![alt text](https://i.imgur.com/zd1uTHx.png "This is a C Major scale, written from the pitch G.]")
