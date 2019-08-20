@@ -68,3 +68,9 @@ In actual music you very rarely have scales written out in order from beginning 
 Let's try the __W W H W W W H__ pattern. If this is a major scale, the pattern will be recognizable somewhere.
 
 ![alt text](https://i.imgur.com/zd1uTHx.png "This is a C Major scale, written from the pitch G.]")
+
+This is a C Major scale, written from the pitch G.
+
+The __root__ is home. It always feels like a good place to end a melody. If you are writing something and want it to feel like it's over, go to the root. 
+
+> Do melodies have to start and end with the root note? No, but if you want the melody to be nice and predictable, make sure it starts and ends with the root note.
