@@ -11,5 +11,15 @@ So in a piano roll editor, two notes that are right on top of each other are hal
 
 [img](https://i.imgur.com/6Who26E.png)
 
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://i.imgur.com/6Who26E.png "Half-steps and Whole-steps"
+
 We can learn how to find any key through a pattern of whole steps and half steps that make up the scale, which tell us all the notes in the key.
 
