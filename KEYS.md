@@ -42,3 +42,19 @@ Let's focus on the Major Scale and Keys. It's important to note that this doesn'
 __The `Scale Degree` is a term referring to the relationship between a note and a root.__
 
 
+| C Major       | Degree  |
+| ------------- |:-------:|
+| D             | 2       |
+| E             | 3       |
+| F             | 4       |
+| G             | 5       |
+| A             | 6       |
+| B             | 7       |
+
+In C major scale, the pitch `D` is scale degree 2. `D` is the second note of the scale. 
+In C major scale, the pitch `E` is scale degree 3. `E` is the third note of the scale. 
+In C major scale, the pitch `F` is scale degree 4. `F` is the forth note of the scale. 
+In C major scale, the pitch `G` is scale degree 5. `G` is the fifth note of the scale. 
+In C major scale, the pitch `A` is scale degree 6. `A` is the sixth note of the scale. 
+In C major scale, the pitch `B` is scale degree 7. `B` is the seventh note of the scale. 
+
