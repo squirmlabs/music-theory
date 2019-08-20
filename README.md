@@ -12,9 +12,9 @@ A Chord is a smaller grouping of notes within a key. Chords usually have three o
 Keys are all the notes that sound good together. Scales are all the notes in a key in order, and chords are smaller groupings of notes that sound especially good together.
 
 The Pattern of a Key
-----------------------
+====================
 
-Music theory is something that lives and breathes. It's not note memorization. However, there are a few things to memorize when it comes to music theory, this next thing is one of them.
+There are a few things to memorize when it comes to music theory.
 
 __You can find any key by starting on a root, and applying a pattern.__
 
@@ -23,4 +23,9 @@ The Root
 
 The __root__ is the note that the key is named after. The __root__ of the key of `C Major` is the pitch `C`. The __root__ of the `C Major` scale is the pitch `C`. The __root__ of a `C Major` chord is the pitch `C`. The __root__ is always a single note.
 
+__After we have the root, we can apply a pattern made of half-steps and whole-steps.__
+
+### The Major Scale Pattern
+
+__W W H W W W H__
 
