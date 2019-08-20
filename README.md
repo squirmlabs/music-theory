@@ -1,6 +1,6 @@
 
 The Elements of a key
-----------------------
+====================
 
 A Key is a pattern of notes that work together. While there are 12 possible notes you can play
 in a single octave, only eight of those notes are in key and therefore are the best notes to use.
