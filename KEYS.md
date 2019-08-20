@@ -37,4 +37,8 @@ There are two main types of scales and keys: Major and Minor. With the use of an
 
 Let's focus on the Major Scale and Keys. It's important to note that this doesn't include chords. Even though, we are focused on the Major Scale and Key, we still have major and minor chords that can be played.
 
+## Scale Degrees
+
+__The `Scale Degree` is a term referring to the relationship between a note and a root.__
+
 
