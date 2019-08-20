@@ -58,3 +58,13 @@ __The `Scale Degree` is a term referring to the relationship between a note and 
 > In C major scale, the pitch `A` is scale degree 6. `A` is the sixth note of the scale. 
 > In C major scale, the pitch `B` is scale degree 7. `B` is the seventh note of the scale. 
 
+In a scale, we have seven different notes. Scales are often written with eight notes, where the first and last are an octave apart. Each note has properties that are important to keep in mind.
+
+The Root
+----------------------
+
+In actual music you very rarely have scales written out in order from beginning to end. For example: what is the root note of the following scale?
+
+Let's try the __W W H W W W H__ pattern. If this is a major scale, the pattern will be recognizable somewhere.
+
+[This is a C Major scale, written from the pitch G.](https://imgur.com/a/B0GmHTj)
